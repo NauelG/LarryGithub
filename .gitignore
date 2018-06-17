@@ -1,0 +1,6 @@
+# Archivos de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos HTML
+*.html
